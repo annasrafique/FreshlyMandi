@@ -1,0 +1,2 @@
+# FreshlyMandi
+Small Ecommerce platform
